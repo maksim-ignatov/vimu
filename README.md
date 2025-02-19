@@ -1,1 +1,1 @@
-# vimu
+# ViMu Media Player
